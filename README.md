@@ -1,1 +1,1 @@
-# the-weather-forecasting
+![Application screenshot](./public/screenshot.png)
